@@ -1,5 +1,5 @@
 {
-  "name": "@niejingying/cosmjs-wallet-kit-njy",
+  "name": "cosmjs-wallet-kit-njy",
   "version": "0.0.1",
   "description": "This is a cosmjs wallet kit",
   "main": "./dist/index.js",
